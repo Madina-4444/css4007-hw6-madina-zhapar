@@ -1,0 +1,12 @@
+Slippery=False, Policy=random, Batch=11, Goals=0/50, Holes=50/50, TimeLimits=0/50, Success=0.00%, MeanSteps=7.98
+Slippery=False, Policy=random, Batch=22, Goals=0/50, Holes=50/50, TimeLimits=0/50, Success=0.00%, MeanSteps=6.42
+Slippery=False, Policy=random, Batch=33, Goals=1/50, Holes=49/50, TimeLimits=0/50, Success=2.00%, MeanSteps=6.66
+Slippery=True, Policy=random, Batch=11, Goals=0/50, Holes=50/50, TimeLimits=0/50, Success=0.00%, MeanSteps=8.30
+Slippery=True, Policy=random, Batch=22, Goals=2/50, Holes=48/50, TimeLimits=0/50, Success=4.00%, MeanSteps=7.76
+Slippery=True, Policy=random, Batch=33, Goals=0/50, Holes=50/50, TimeLimits=0/50, Success=0.00%, MeanSteps=6.74
+Slippery=False, Policy=fixed, Batch=11, Goals=50/50, Holes=0/50, TimeLimits=0/50, Success=100.00%, MeanSteps=6.00
+Slippery=False, Policy=fixed, Batch=22, Goals=50/50, Holes=0/50, TimeLimits=0/50, Success=100.00%, MeanSteps=6.00
+Slippery=False, Policy=fixed, Batch=33, Goals=50/50, Holes=0/50, TimeLimits=0/50, Success=100.00%, MeanSteps=6.00
+Slippery=True, Policy=fixed, Batch=11, Goals=6/50, Holes=44/50, TimeLimits=0/50, Success=12.00%, MeanSteps=5.56
+Slippery=True, Policy=fixed, Batch=22, Goals=1/50, Holes=49/50, TimeLimits=0/50, Success=2.00%, MeanSteps=4.10
+Slippery=True, Policy=fixed, Batch=33, Goals=2/50, Holes=48/50, TimeLimits=0/50, Success=4.00%, MeanSteps=4.68

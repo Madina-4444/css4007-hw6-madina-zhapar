@@ -1,0 +1,42 @@
+FrozenLake Sample Episode
+========================
+
+START
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: LEFT
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: UP
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: RIGHT
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 4: DOWN
+  (Down)
+SFFF
+F[41mH[0mFH
+FFFH
+HFFG
+
+========================
+Outcome: HOLE
+Reward: 0
+Steps: 4

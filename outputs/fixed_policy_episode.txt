@@ -1,0 +1,75 @@
+FIXED POLICY EPISODE
+
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: RIGHT
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 2: RIGHT
+  (Right)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 3: DOWN
+  (Down)
+SFFF
+FH[41mF[0mH
+FFFH
+HFFG
+
+Step 4: DOWN
+  (Down)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+
+Step 5: DOWN
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 6: RIGHT
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF[41mG[0m
+
+====================
+Outcome: GOAL
+Reward: 1
+Steps: 6
+
+0 → 1 → 2
+        ↓
+        6
+        ↓
+       10
+        ↓
+       14 → 15
+
+S F F F
+F H F H
+F F F H
+H F F G
+
+S → F → F
+        ↓
+        F
+        ↓
+        F
+        ↓
+        F → G
